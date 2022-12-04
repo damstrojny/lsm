@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">lsm</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Childrens duties</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="child_rewards">ChildRewards</string>
+    <string name="child_name1">Bartek</string>
+    <string name="child_name2">Adaś</string>
+    <string name="child_name3">Sebastian</string>
+    <string name="child_name4">Damian</string>
+    <string name="task">+5</string>
+    <string name="points">+5</string>
+    <string name="button_add_child">ADD CHILD</string>
+    <string name="button_dashboard">ADD</string>
+    <string name="user_grid_text">Assigned to:</string>
+    <string name="name_input_string">Name</string>
+    <string name="calendar_input_string">Repeat</string>
+    <string name="behaviour_string">Behaviour</string>
+    <string name="duties_string">Duties</string>
+</resources>
